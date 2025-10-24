@@ -1,4 +1,9 @@
 # Intelligent Operations Analytics System
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0ff9bd93-9acc-4652-9d73-eba9b6937e58" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f7845846-89f6-45ee-be11-f991c6995b48" />
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/04b9e1ae-936b-4335-90b7-ec7c98cdc797" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc525510-82e8-4446-abda-b1a09246fd1f" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0a1d68d3-e88f-4bdf-aba2-8751eb02567f" />
 
 ## Quickstart
 1. Ensure Docker is running.
